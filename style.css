@@ -1,0 +1,13 @@
+h6, h3, label, span {
+    font-family: 'montserrat', sans-serif;
+}
+
+/* Cambiar el color del borde de los divs */
+div,select,span,input {
+    border-color: #000000 !important;
+}
+
+/* Fuente general */
+* {
+    font-family: 'lora', serif;
+}
